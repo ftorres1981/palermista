@@ -11,4 +11,4 @@ Over the past few years, I’ve gained solid experience in manual testing, where
 
 🤝 I'm open to collaboration, feedback, and contributing to projects that value quality, performance, and user satisfaction.
 
-LinkedIn: https://www.linkedin.com/in/ing-federico-torres/
+LinkedIn: https://www.linkedin.com/in/ing-federico-torres/.
