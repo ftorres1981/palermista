@@ -5,7 +5,7 @@ Over the past few years, I’ve gained solid experience in manual testing, where
 
 🎓 I also have an academic background in programming, which gives me a deeper understanding of how software is built. This technical knowledge allows me to communicate effectively with development teams and has laid the groundwork for my next step: automation.
 
-🚀 Currently, I’m actively transitioning into test automation. I’m learning tools like Selenium and Postman, as well as programming with Python and JavaScript. I'm excited to apply this knowledge to create more scalable, efficient, and reliable testing processes.
+🚀 Currently, I’m actively transitioning into test automation. I’m learning tools like TypeScript, Python and JavaScript. I'm excited to apply this knowledge to create more scalable, efficient, and reliable testing processes.
 
 💡 I'm deeply motivated by curiosity and improvement. Whether it’s mastering a new testing framework, staying up to date with QA best practices, or tackling a complex bug, I’m always eager to learn and take on new challenges.
 
